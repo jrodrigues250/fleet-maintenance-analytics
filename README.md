@@ -18,7 +18,7 @@ This project demonstrates the complete analytics workflow, from ETL development 
 
 ### Executive Overview
 
-![Executive Overview](images/executive_overview.png)
+![executive_overview](images/executive_overview.png)
 
 ### Cost Analysis
 
