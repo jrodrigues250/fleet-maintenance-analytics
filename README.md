@@ -1,12 +1,11 @@
 # Fleet Maintenance Analytics
 
 ![Python](https://img.shields.io/badge/Python-3.x-blue)
-
 ![Power BI](https://img.shields.io/badge/Power%20BI-Dashboard-yellow)
-
 ![SQLite](https://img.shields.io/badge/SQLite-Database-blue)
-
 ![License](https://img.shields.io/badge/License-MIT-green)
+![DAX](https://img.shields.io/badge/DAX-Measures-blueviolet?style=flat)
+![Star Schema](https://img.shields.io/badge/Model-Star%20Schema-orange?style=flat)
 
 End-to-end Business Intelligence solution for fleet maintenance analytics using **Python, SQLite, SQL and Power BI**.
 
