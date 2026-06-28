@@ -1,10 +1,10 @@
 # Fleet Maintenance Analytics
 
 ![Python](https://img.shields.io/badge/Python-3.x-blue)
-![Power BI](https://img.shields.io/badge/Power%20BI-Dashboard-yellow)
 ![SQLite](https://img.shields.io/badge/SQLite-Database-blue)
-![License](https://img.shields.io/badge/License-MIT-green)
+![Power BI](https://img.shields.io/badge/Power%20BI-Dashboard-yellow)
 ![DAX](https://img.shields.io/badge/DAX-Measures-blueviolet?style=flat)
+![License](https://img.shields.io/badge/License-MIT-green)
 ![Star Schema](https://img.shields.io/badge/Model-Star%20Schema-orange?style=flat)
 
 End-to-end Business Intelligence solution for fleet maintenance analytics using **Python, SQLite, SQL and Power BI**.
@@ -224,9 +224,37 @@ The dashboard allows users to identify:
 
 ---
 
+# Data Source
+
+This project uses publicly available maintenance work order data provided by the City of Cincinnati Open Data Portal.
+
+The dataset contains historical fleet maintenance records, including work orders, labor hours, downtime, maintenance costs, assets, departments and maintenance types.
+
+Source:
+[https://data.cincinnati-oh.gov/](https://data.cincinnati-oh.gov/Thriving-Neighborhoods/Fleet-Preventative-Maintenance-Repair-Work-Orders/2a8x-bxjm/about_data)
+
+---
+
 # Notes
 
 The `fact_work_orders` dataset is compressed as a ZIP archive to reduce repository size while preserving reproducibility.
+
+---
+
+## Key Features
+
+- Python ETL pipeline
+- Star Schema dimensional model
+- Interactive Power BI dashboard
+- Advanced DAX calculations
+- Pareto analysis
+- Executive business storytelling
+
+---
+
+## Data Disclaimer
+
+This project was developed exclusively for educational and portfolio purposes using publicly available data. All analyses, transformations and dashboard design were independently developed by the author.
 
 ---
 
